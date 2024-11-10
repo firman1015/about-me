@@ -34,7 +34,6 @@ I am a full-stack software engineer based at Bogor city, Indonesia. During the p
 
 <img src="https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a" />
 
-<img src="https://img.shields.io/badge/Tools-Adobe XD-informational?style=flat&logo=adobe%20xd&logoColor=white&color=2bbc8a" />
 </p>
 
 
